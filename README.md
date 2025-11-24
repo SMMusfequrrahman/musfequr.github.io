@@ -3,6 +3,10 @@
 
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
 
+# https://smmusfequrrahman.github.io/musfequr.github.io/
+
+# musfequr.github.io
+
 # Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
